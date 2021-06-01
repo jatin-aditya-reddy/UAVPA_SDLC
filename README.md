@@ -40,4 +40,16 @@ Here are some reference papers that were vital for the development of this proje
 
 **_Features_**
 
+The features of the system are:
+1. Autonomous Flight
+2. Self Stablization (Hover)
+3. Altitude Hold (Alt_Lock)
+4. RTL (Return to launch i.e. failsafe)
+5. Mobile App Control
+6. Flight time ~ 20 minutes
+7. Plant health analysis
+8. Insect and weed detection
+
+## Defining the System
+
 
