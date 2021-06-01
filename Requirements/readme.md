@@ -68,4 +68,5 @@ The UAV captures near Infrared radiations from the plants when they tap in sunli
 ## High Level Requirements
 
 | ID      | Description    | Status        |
+| ------- | -------------- | ------------- |
 | HR_01   | Hardware       | Implemented   |
