@@ -1,5 +1,5 @@
 # UAV for Precision Agriculture in a Modular Approach
-This repository encloses my research work on UAV for precision agriculture that was published as a conference paper at IEEE UPCON 2020. The project uses an autonomous UAV, guided by the open source QGC app, and is capable of analysing plant health, and identifying insects and weeds in the field. The development is described in detail piecewise according to the phases in SDLC. This file consists of the following sections -  Introduction, Research, Cost Analysis, Features of the product, System Layout, SWOT Analysis, 4W's and 1'H and the detailed requirements of the project.
+This repository encloses my research work on UAV for precision agriculture that was published as a conference paper at IEEE UPCON 2020. The project uses an autonomous UAV, guided by the open source QGC app, and is capable of analysing plant health, and identifying insects and weeds in the field. The development is described in detail piecewise according to the phases in SDLC. 
 
 ## Introduction to the Project
 
@@ -32,5 +32,12 @@ Here are some reference papers that were vital for the development of this proje
 3.	Pest Detection on UAV Imagery using a Deep Convolutional Neural Network *Yacine Bouroubi, Pierre Bugnet, Thuy Nguyen-Xuan, Claire Gosselin, Carl Bélec, Louis Longchamps and Philippe Vigneault In Proceedings of the 14th International Conference on Precision Agriculture (unpaginated, online). Monticello, IL: International Society of Precision Agriculture
 
 ## Cost and Features Breakdown
+
+**_Cost_**
+
+* The software aspect of the system is free of cost, as it uses open source software and developed software from research accessible to everyone. 
+* The hardware used in this research prototype involves basic drone components, Raspberry Pi 3B, Pixhawk PX4 FC, NOIR RPi camera and an action camera (SD/HD), the total cost is approxmiately INR 53000/- which is subject to change as per fluctuating market prices day by day. 
+
+**_Features_**
 
 
