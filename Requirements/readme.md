@@ -43,26 +43,6 @@ The features of the system are:
 ![System Design](https://user-images.githubusercontent.com/84840612/120294274-a9f98980-c2e3-11eb-8c09-0031c0e1b21f.png)
 
 ## SWOT Analysis
-
-**_Strengths_**
-
-1. Robust System
-2. Ease of operations and Piloting
-3. Expected objectives executed
-
-**_Weaknesses_**
-
-1. Present system cannot maneuver against unrecognized obstacles (Street lamps)
-2. It can be difficult to switch modes i.e. autopilot to manual flight mode and vice-versa for someone not well-versed even with a manual. (Flight system softwares are opensource)
-
-**_Opportunities_**
-
-1.
-2.
-
-**_Threats_**
-
-1.
-2.
+![SWOT](https://user-images.githubusercontent.com/84840612/120296239-8d5e5100-c2e5-11eb-80fb-48eca6dcfa4c.png)
 
 
