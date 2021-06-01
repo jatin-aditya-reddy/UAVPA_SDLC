@@ -67,6 +67,22 @@ The UAV captures near Infrared radiations from the plants when they tap in sunli
 
 ## High Level Requirements
 
-| ID      | Description    | Status        |
-| ------- | -------------- | ------------- |
-| HR_01   | Hardware       | Implemented   |
+| ID      | Description     | Status        |
+| ------- | --------------- | ------------- |
+| HR_01   | Hardware        | Implemented   |
+| HR_02   | Autopilot       | Implemented   |
+| HR_03   | Health Analysis | Implemented   |
+| HR_04   | I/W Detection   | Implemented   |
+| HR_05   | Flask Server    | Implemented   |
+
+## Low Level Requirements
+
+| ID      | Description     | HLR_ID  | Status        |
+| ------- | --------------- | ------- | ------------- |
+| LR_01   | Procurement     | HR_01   | Completed     |
+| LR_02   | Frame Build     | HR_01   | Completed     |
+| LR_03   | Soldering       | HR_01   | Completed     |
+| LR_04   | Circuitry       | HR_01   | Completed     |
+| LR_05   | Patch Update    | HR_02   | Completed     |
+| LR_06   | Calibration     | HR_02   | Completed     |
+| LR_07   | Telemetry Link  | HR_02   | Completed     |
