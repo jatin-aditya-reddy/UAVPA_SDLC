@@ -45,5 +45,9 @@ The features of the system are:
 ## SWOT Analysis
 ![SWOT](https://user-images.githubusercontent.com/84840612/120296662-f9d95000-c2e5-11eb-9587-32cc925b0848.jpg)
 
+# 4W's and 1'H
+
+**Who:**
+
 
 
