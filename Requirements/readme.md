@@ -49,5 +49,16 @@ The features of the system are:
 
 **Who:**
 
+The product will benefit farmers who would like to improve their crop yield in a harvest season. It can also provide an early insight into the cultivation season to help them make necessary changes early on.
 
+**What:**
+A Unmanned Aerial Vehicle, for Precision Agriculture, capable of autonomous, app-controlled flight to identify insects, weeds and determine the health status of crops.
 
+**When:**
+It can assist farmers to navigate across difficult portions of their farms, and more importantly complete the inspection and analysis in a short time span compared to manual inspection. It will save manpower additionally.
+
+**Where:**
+The product can be put to use almost in every scenario involving farms, such as step farms, irrigation networks etc. The calculations and results obtained are accurate.
+
+**How:**
+The UAV captures near Infrared radiations from the plants when they tap in sunlight during the day. It is a property for every plant to release these radiations upon illumination. A healthy plant is capable of reflecting almost entirely, while unhealthy plants can do so in traces. Other non-living entities and even animals and humans can't do so. The Normalized Difference Vegetation Index is identified from these values, and it is a ratio to enable us undestand plant health better. R-CNN deep learning model is used for weeds and insects and its idenfitication in the field. The results obtained can be seen in the flask application in real-time. 
