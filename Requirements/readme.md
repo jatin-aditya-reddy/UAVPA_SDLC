@@ -43,6 +43,7 @@ The features of the system are:
 ![System Design](https://user-images.githubusercontent.com/84840612/120294274-a9f98980-c2e3-11eb-8c09-0031c0e1b21f.png)
 
 ## SWOT Analysis
-![SWOT](https://user-images.githubusercontent.com/84840612/120296239-8d5e5100-c2e5-11eb-80fb-48eca6dcfa4c.png)
+![SWOT](https://user-images.githubusercontent.com/84840612/120296662-f9d95000-c2e5-11eb-9587-32cc925b0848.jpg)
+
 
 
