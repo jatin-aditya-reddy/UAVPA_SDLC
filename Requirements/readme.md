@@ -62,3 +62,10 @@ The product can be put to use almost in every scenario involving farms, such as 
 
 **How:**
 The UAV captures near Infrared radiations from the plants when they tap in sunlight during the day. It is a property for every plant to release these radiations upon illumination. A healthy plant is capable of reflecting almost entirely, while unhealthy plants can do so in traces. Other non-living entities and even animals and humans can't do so. The Normalized Difference Vegetation Index is identified from these values, and it is a ratio to enable us undestand plant health better. R-CNN deep learning model is used for weeds and insects and its idenfitication in the field. The results obtained can be seen in the flask application in real-time. 
+
+# Detail Requirements
+
+## High Level Requirements
+
+| ID      | Description    | Status        |
+| HR_01   | Hardware       | Implemented   |
