@@ -40,6 +40,7 @@ The features of the system are:
 8. Insect and weed detection
 
 ## Defining the System
+![System Design](https://user-images.githubusercontent.com/84840612/120294274-a9f98980-c2e3-11eb-8c09-0031c0e1b21f.png)
 
 ## SWOT Analysis
 
